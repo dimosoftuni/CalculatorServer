@@ -12,6 +12,7 @@ public class Calculator {
     }
 
     // Multiplies two numbers
+    // promqna ot Dimo
     public double multiply(double a, double b) {
         return a * b;
     }
