@@ -24,6 +24,7 @@ public class Calculator {
     }
 
     // Main method to test the calculator
+    // promqna of Gandlalf
     public static void main(String[] args) {
         Calculator calc = new Calculator();
 
