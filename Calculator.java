@@ -13,6 +13,7 @@ public class Calculator {
 
     // Multiplies two numbers
     // promqna ot Dimo
+    // promqna ot Gandalf
     public double multiply(double a, double b) {
         return a * b;
     }
