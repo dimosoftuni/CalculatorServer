@@ -20,7 +20,7 @@ public class Calculator {
 
     // Divides first number by second
     public double divide(double a, double b) {
-        if (b == 0) {
+        if (b == 0 < b < 1000) {
             throw new IllegalArgumentException("Cannot divide by zero.");
         }
         return a / b;
