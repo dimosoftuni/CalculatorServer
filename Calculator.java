@@ -1,5 +1,6 @@
 public class Calculator {
 
+    // Change from Dimo
     // Adds two numbers
     public double add(double a, double b) {
         return a + b;
